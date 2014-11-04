@@ -95,7 +95,7 @@ index 0000000..9bf6460
 +		pinctrl-names = "default";
 +		pinctrl-0 = <&rgmii1_pins &rgmii2_pins &mdio_pins>;
 +
-+		ralink,port-map = "llllw";
++		ralink,port-map = "wllll";
 +
 +		port@4 {
 +			status = "okay";
